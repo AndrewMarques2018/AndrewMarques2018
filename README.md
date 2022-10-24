@@ -1,10 +1,27 @@
-# Olá eu sou Andrew Marques 👋
-## Engenheiro de software, Dev
-## Desenvolvedor de Apps Mobile
+## Olá eu sou Andrew Marques, Desenvolvedor de Softwares!
+<div align="center">
+  <a href="https://github.com/andrewmarques2018">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrewmarques2018&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmarques2018&layout=compact&langs_count=7&theme=merko"/>
+</div>
+<div style="display: inline_block"><br>
+<img align="center" alt="Andrew-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Andrew-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Anrew-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Andrew-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="Andrew-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Anrew-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Anrew-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/andrewmarquessilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:andrewmarques2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andrewmarques2018" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/andrewmarques2018/andrewmarques2018/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
-[Conheça meu app: Organize Finance](https://github.com/AndrewMarques2018/Organize-Aplicativo-Android)  
-
-
-![enter image description here](https://lh3.googleusercontent.com/4LICreCArSFFQ0Zi0_ZlJmCQ8uUS10X3l8ufPnnRMZb80KgbtjNzCSs2VXjASp0_RMjasxhvBkcuQreBN2gXKYd-r4V0Ds_b2Fw9zeOjB9oSwYSWogBcn2V9gE15U0-6N4RxJ_TKHOUEKXuU--ORiP5pZ2Lg-Wt3DlIZEi45uU9lobinJDVOHWlp_KDjoAieSwCC0uIjRh0O3ZEezkRAd14VcHt80wNHHC8DKB7UKMhK8euHy5jB9kPWUkq7Lhxt5-11Z4mt-L7HJ4mlS82wWQD6skLCS27uoz3ekM77UVbPgSU5rvTZ0Tcy1QHNwK2XXnL-W9yW0BMo-_3ABVPKnuxOFyLr0EnLfU-xjqGgiZdWqDTh-fw0XJ4LbeHDO0Mny9Ee-2iwgFirPtwKgawxAZX5vQkhBIvctsRX7aYwgb8ykEsygyGmpd6gR9BW-247Ra75YJItOwEPbakSbas361MGaVq_3KMAsGV9HN-1lhUcPHtdzkP4ZuXxNGfDTTQgnKO-HXGewy5-qYZewVTqNo9pzhOXlMQEeI7jzyFw0-dg3ggTh18pUqtJQuHc-hc5UUPikQGhnyW6IGIeLJuQVHXd2L-QuW5FYjTB6pVV3p-KtKMMS8VtkAmFuda3u8FkMdnUZL4A05d_nqQvKUgwWt1VwQbsc83Yq13l9nLVh1RBQLEY7tiGAnsgtagrJBn-HdFOe-xsLqEOArlZ6B53vbfSt_32V3W-0LHEWIMply2HnnVi-G5iGLqDJ2WuSiJTwVMgstmhdpNVsL6L8Ij5Fd5yvq2C6TH0H2xotgeRUPQBDlPWRx7uPMQVmCZqIkLrd17Rz8FEJO41cwrXqUYch0w1yTLHanTBXmMFuPEalRcov1P4T3qsc7qZWoF0V8SkKjRJvZlc6Iz2xjwX9hy6JmK3gJXRnMUW55giwFaHu2WYbcPmSncaF1MfvUz9lSu0fIcM2sm1i7rJFLA=s240-no?authuser=0)
-![enter image description here](https://lh3.googleusercontent.com/eNTJPzNkfMqXb5lLObYV0vl1j7k8C9p7qYXSSkA8r7mkorUGlDJrE3cN6SrH8_XNQwVdSS-CGkzA7eX53BOu8jLTj9zsECVn4b3wxUkMrC7Q5jYjzNQYv6lvMGkzVfCpjiRRNA3E5LaHaQQT1zwhFYC5frhKUpdUwsLwsI7puQSePGUY90nTJZ4M0L2daoNrV8OzL1hdoJZJ8ByZEJAKUXKofQmMgWwvws2g4DrArrbCKiSHQbbTOcL97S1blrfojPhekQw220vX2bjXeZg5-zNRN6npsJQx8JhZIFAdcXWdFKxHk3JozDcv7-jhwUvTHSrxOJq_ZqEsKIaVps87j40XhUb6TezGaMNnHSipf1mprBvXqD_p-ezx3Fwq1a1HGYb1gm8aDmBmhbzM0uzymVof14g59QdEZ0ZBi0cWzM-PWxsTIDdr8Acl9GUe2HCDMkXkuY9McGWbBHMeyWuLSNSlVMkJo2nm4onwmFLL2XdZvrCF0AnFQX5YSkfmBXlMVrSlt6dTQQTJnHEyXaTum6lEdIMN6fGx_HiEzVoAPhB5E6RX45VuXprjF2V9XiVSZpldeSR4iZjV4ISlc03lNMBVYchXTGcZ_MGL4HZFi4ClYIcORog9BwVcCThG-n74WbMtRjvJFPmRrGMys8MKOJTrjACIlMcfee-rSpZzNrC4UFmNfFFgEqdwhXhMwR_CQ5eKKHKKjSmNRlMnGfjQbx2d_S5eGPE_Bp9CDta8tjjuEQ57YOEYiOmtTKivxZCHbgBuKZxw0Iew84CO-H904lJhlPv0cFsSGKzy=s240-no?authuser=0)
- ![enter image description here](https://lh3.googleusercontent.com/IguLH45wVg_xzuie7RVJEEgYLCjI2yQqWaz9nHt1_xEyrPivONTy3MyOkCSbGBiJZG5tnk3uprW5rRSqYlqdoh8vaADj_p5UTNCOYep-Ocd-ieQOSEYY2o6rvAVn3f9kaVJXIoGmze7X99tUySa7nu-Xb1r_rchwYJuRSH2wtDKG5VRz_0E5KuXpBDPl5a-_HaZjje8cVQwI083BMWRYKyDwe3BwPPEUie1mdNMl0TO7G5nPfIVrhgeF-IORqzjoZWYU9RsCp7bFUj729NgrcRJz2KGzQj2LquInLteFtZO_mbpYzRelcqe1OQwier5tYNrTik-3W34bogX7XdksDqCszrttmN1mTmIh36ePA3YN291YZxnZYxoNAx-4R78XWY9nyAh8doFtjLeRI2K1J99u05_gG6Bp5SCdR_S9niuXMyNb8j3gBfpHfpi3V2upNGe6GCEyqiAsp-vIq4CS7KLM58_7xZ34xxw1y3vY0qOFe2xOfv7Ppzmni6xmmQz6wAtqsjgm1ZkODMF1MJw241h_mFibWSGZhMqmIf79md0L2mBTMDzFQo_NYbzhnBWVKmfB989AON2sh0j0wTx1lXxJqMpkDqh9cME6pcGG-xn2ToMG7Ybgcl6IWuqCDj2FDG3Fzx7m2vxR36xsRGUKoU_afeyzz5RIFK4VFpUA0_miOnW7oCneg8P4HmbUZZZ-Sr2bAywhcmiYZkseuNDctyhe2A4NsmPQhR89NmKXIg1EYGvO06DWzGjcjtpcWQcNDff1SO0L20Zen-QSh2IWq6lnDEG2akl8ydGLBJFiUEAHVyPRiICJsJ61thBSn3Q7Nr2B9O2O33tRZ2ZDQOFmnXUqdagW5j37uQEJ_UBAlIrzhqTaZyHQdG2o-m_EK5bp1PohyS1f0RANDQWLCkuBzpHFANQ0gcMaLxX0odz7NnF7DdMcvWHJ0NqQCB3aE7p8A9Kn8Lkn4HAYVS4=s240-no?authuser=0)                   
