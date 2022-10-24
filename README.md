@@ -11,7 +11,7 @@ Sou apaixonado por progamação, principalmente quando o assunto é criação e 
 ##
 
 <div align="left">
-  <a href="https://github.com/andrewmarques2018">
+  <a href="https://github.com/AndrewMarques2018">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrewmarques2018&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmarques2018&layout=compact&langs_count=7&theme=merko"/>
 </div>
@@ -33,7 +33,7 @@ Sou apaixonado por progamação, principalmente quando o assunto é criação e 
   <a href = "mailto:andrewmarques2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andrewmarques2018" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/andrewmarques2018/andrewmarques2018/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AndrewMarques2018/andrewmarques2018/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
