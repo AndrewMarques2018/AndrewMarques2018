@@ -1,7 +1,8 @@
 ## Olá eu sou Andrew Marques, Desenvolvedor de Softwares!
 
 ### Apresentação:
-Sou apaixonado por progamação, principalmente quando o assunto é criação e inovação, adoro criar games, apps e softwares. Sou muito detalista e cuidadoso com meus projetos, gosto de ser objetivo e eficiente.
+Olá, sou Andrew Marques, minha especialidade é Java em desenvolvimento Android, porém estou aberto a novos conhecimentos e tecnologias. Atualmente estudo SQL, Python e Javascript.  
+Sou uma pessoa que amo a área da tecnologia, sou apaixonado por desenvolvimento pois essa ferramenta me dá a capacidade de criar tudo o que quiser, e isso é realmente incrível, principalmente quando o assunto é criação e inovação, adoro criar games, apps e softwares. Sou muito detalista e cuidadoso com meus projetos, gosto de ser objetivo e eficiente.
 
 ### Projetos :
 - [Organize Finance](https://github.com/AndrewMarques2018/Organize-Aplicativo-Android)
