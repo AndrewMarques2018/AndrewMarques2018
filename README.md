@@ -1,8 +1,19 @@
 ## Olá eu sou Andrew Marques, Desenvolvedor de Softwares!
 
 ### Apresentação:
-Olá, sou Andrew Marques, minha especialidade é Java em desenvolvimento Android, porém estou aberto a novos conhecimentos e tecnologias. Atualmente estudo SQL, Python e Javascript.  
+Olá, sou Andrew Marques Silva
 Sou uma pessoa que amo a área da tecnologia, sou apaixonado por desenvolvimento pois essa ferramenta me dá a capacidade de criar tudo o que quiser, e isso é realmente incrível, principalmente quando o assunto é criação e inovação, adoro criar games, apps e softwares. Sou muito detalista e cuidadoso com meus projetos, gosto de ser objetivo e eficiente.
+
+### O que eu faço:
+Desenvolvedor de Software. Graduando em Engenharia de Software. Desenvolver aplicações utilizando JavaScript e Java;
+Atuar na manutenção dos sistemas desenvolvidos;
+Atuar no desenvolvimento e definição de novas features;
+Especificar e implementar soluções baseadas em tecnologia Web;
+Realizar entrevista de análise de requisitos com os stakeholders chaves do processo;
+Realizar avaliação técnica e estimativa de esforço para desenvolvimento de soluções e funcionalidades;
+Garantir a qualidade dos seus entregáveis, se comprometendo com prazos estipulados e níveis de qualidade de código acertados;
+Realizar testes unitários e carga;
+Realizar treinamentos junto aos usuários das aplicações e funcionalidades desenvolvidas
 
 ### Projetos :
 - [Organize Finance](https://github.com/AndrewMarques2018/Organize-Aplicativo-Android)
