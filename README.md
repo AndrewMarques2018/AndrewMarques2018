@@ -1,19 +1,15 @@
 ## Olá eu sou Andrew Marques, Desenvolvedor de Softwares!
 
 ### Apresentação:
-Olá, sou Andrew Marques Silva
-Sou uma pessoa que amo a área da tecnologia, sou apaixonado por desenvolvimento pois essa ferramenta me dá a capacidade de criar tudo o que quiser, e isso é realmente incrível, principalmente quando o assunto é criação e inovação, adoro criar games, apps e softwares. Sou muito detalista e cuidadoso com meus projetos, gosto de ser objetivo e eficiente.
+Olá, sou Andrew Marques, um desenvolvedor de software apaixonado por transformar ideias em realidade digital. Com mais de 5 anos de experiência na área, encontrei minha verdadeira paixão. Sou movido pela emoção de criar soluções inovadoras e desafiadoras, e acredito que a magia acontece quando o código ganha vida.
 
-### O que eu faço:
-Desenvolvedor de Software. Graduando em Engenharia de Software. Desenvolver aplicações utilizando JavaScript e Java;
-Atuar na manutenção dos sistemas desenvolvidos;
-Atuar no desenvolvimento e definição de novas features;
-Especificar e implementar soluções baseadas em tecnologia Web;
-Realizar entrevista de análise de requisitos com os stakeholders chaves do processo;
-Realizar avaliação técnica e estimativa de esforço para desenvolvimento de soluções e funcionalidades;
-Garantir a qualidade dos seus entregáveis, se comprometendo com prazos estipulados e níveis de qualidade de código acertados;
-Realizar testes unitários e carga;
-Realizar treinamentos junto aos usuários das aplicações e funcionalidades desenvolvidas
+Meu amor pela programação se despertou no ensino médio, em uma turma de robótica, ao ver um colega adicionando funções a um robô de resgate que ajudei a construir. Desde o Backend até o front, estou sempre ansioso para aprender novas linguagens e tecnologias. Sou um entusiasta que não se contenta apenas com o básico. Minha mentalidade detalhista e persistente me permite mergulhar de cabeça em cada projeto, buscando a excelência e garantindo que cada linha de código seja pensada e implementada com cuidado.
+
+Encontrar soluções criativas é algo que me motiva todos os dias. Adoro enfrentar desafios difíceis e pensar fora da caixa para encontrar as melhores soluções possíveis. Acredito que a combinação de criatividade, determinação e conhecimento técnico é fundamental para alcançar resultados excepcionais.
+
+Fora do mundo da programação, adoro pegar meu violino e tocar lindas melodias. Acredito que atividades de áreas diferentes me ajudam a manter minha mente afiada e meu espírito vivo. Além disso, também sou apaixonado por jogos de estratégia, como xadrez e jogos de tabuleiro, assim como jogos retrô, que me conectam com a nostalgia dos clássicos.
+
+Estou sempre em busca de novos projetos desafiadores e oportunidades para expandir meu conhecimento. Se você está procurando um desenvolvedor de software criativo, criterioso e apaixonado, estou pronto para embarcar nessa jornada com você.
 
 ### Projetos :
 - [Organize Finance](https://github.com/AndrewMarques2018/Organize-Aplicativo-Android)
