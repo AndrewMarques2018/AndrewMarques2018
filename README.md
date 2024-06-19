@@ -1,22 +1,19 @@
-## Olá eu sou Andrew Marques, Desenvolvedor de Softwares!
+## Olá, eu sou Andrew Marques, Desenvolvedor de Softwares!
 
 ### Apresentação:
-Olá, sou Andrew Marques, um desenvolvedor de software apaixonado por transformar ideias em realidade digital. Com mais de 5 anos de experiência na área, encontrei minha verdadeira paixão. Sou movido pela emoção de criar soluções inovadoras e desafiadoras, e acredito que a magia acontece quando o código ganha vida.
+**Sobre Mim**
 
-Meu amor pela programação se despertou no ensino médio, em uma turma de robótica, ao ver um colega adicionando funções a um robô de resgate que ajudei a construir. Desde o Backend até o front, estou sempre ansioso para aprender novas linguagens e tecnologias. Sou um entusiasta que não se contenta apenas com o básico. Minha mentalidade detalhista e persistente me permite mergulhar de cabeça em cada projeto, buscando a excelência e garantindo que cada linha de código seja pensada e implementada com cuidado.
+Há mais de 5 anos, entrei no mundo da tecnologia com um objetivo claro: tornar-me engenheiro de Automação. Mas o ser humano planeja, e Deus maneja. Durante minha jornada na faculdade, encontrei minha verdadeira vocação, mudando completamente o rumo da minha vida.
 
-Encontrar soluções criativas é algo que me motiva todos os dias. Adoro enfrentar desafios difíceis e pensar fora da caixa para encontrar as melhores soluções possíveis. Acredito que a combinação de criatividade, determinação e conhecimento técnico é fundamental para alcançar resultados excepcionais.
+No primeiro semestre, durante a aula de lógica de programação, comecei minha jornada como desenvolvedor. Lembro-me do momento em que escrevi meu primeiro "Hello, World!" em **JavaScript** usando apenas o **Notepad++**. Ver aquela frase simples ser impressa no navegador **Chrome** foi um marco. Desde então, minha vontade de aprender só cresceu.
 
-Fora do mundo da programação, adoro pegar meu violino e tocar lindas melodias. Acredito que atividades de áreas diferentes me ajudam a manter minha mente afiada e meu espírito vivo. Além disso, também sou apaixonado por jogos de estratégia, como xadrez e jogos de tabuleiro, assim como jogos retrô, que me conectam com a nostalgia dos clássicos.
+No segundo semestre, o **Java** entrou em cena, logo de cara, como primeiro contato, Programação Orientada a Objetos e interfaces gráficas. Exatamente, completamente contra o padrão de ensino, meu professor decidiu mudar a curva de aprendizagem, falando: "é bem melhor começar com o mais difícil, porque depois o resto fica fácil". Confesso que deu medo, mas encarei o desafio e foi incrível.
 
-Estou sempre em busca de novos projetos desafiadores e oportunidades para expandir meu conhecimento. Se você está procurando um desenvolvedor de software criativo, criterioso e apaixonado, estou pronto para embarcar nessa jornada com você.
+Após esse semestre, precisei interromper meus estudos devido a dificuldades financeiras. Sem bolsa de estudos e com poucos recursos, as faculdades públicas eram uma opção distante para mim. Sempre fui nerd nas exatas, mas as outras disciplinas me desafiaram bastante.
 
-### Projetos :
-- [Organize Finance](https://github.com/AndrewMarques2018/Organize-Aplicativo-Android)
-- [Xadrez em java](https://github.com/AndrewMarques2018/Game-Xadrez-em-Java)
+Durante esse período, saí de casa, casei e comecei a trabalhar como ajudante no ramo eólico. Apesar das dificuldades e da carga pesada de trabalho, dedicava ao menos uma hora por dia aos estudos. Três anos depois, com um conhecimento aprofundado em **Java**, consegui meu primeiro emprego como desenvolvedor. Iniciei na Plano Consultoria LTDA como Desenvolvedor/Consultor Java e JavaScript, marcando o começo de uma nova fase na minha vida.
 
-
-##
+Essa é a minha história de como iniciei como desenvolvedor, uma trajetória guiada por determinação e fé.
 
 <div align="left">
   <a href="https://github.com/AndrewMarques2018">
@@ -27,19 +24,17 @@ Estou sempre em busca de novos projetos desafiadores e oportunidades para expand
 <div style="display: inline_block"><br>
   <img align="center" alt="Andrew-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Andrew-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Anrew-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Andrew-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andrew-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Andrew-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Anrew-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Anrew-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Andrew-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Andrew-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
 </div>
   
   ##
  
 <div> 
   <a href="https://instagram.com/andrewmarquessilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:andrewmarques2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:andrewmarques2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andrewmarques2018" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
-
